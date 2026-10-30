@@ -86,7 +86,7 @@ The model applies the selected reimbursement rate to forecast mileage, allowing 
 
 ### 3. Mileage Reimbursement Sensitivity
 
-An interactive parameter allows users to evaluate reimbursement rates between $0.33 and $0.70 per mile.
+An interactive parameter allows users to evaluate reimbursement rates between $0.33 and $0.69 per mile.
 
 The analysis calculates the additional reimbursement expense associated with higher rates and identifies events that would move from a positive operating balance into a deficit.
 
