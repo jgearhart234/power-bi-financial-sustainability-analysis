@@ -17,6 +17,12 @@ The analysis identified events at risk of operating at a deficit, prompting a se
 
 The resulting dashboard combines historical financial analysis, forecasting, and scenario modeling to support informed financial decisions.
 
+## Dashboard Preview
+
+![Power BI Financial Sustainability Dashboard](screenshots/04_Registration_Fee_Impact.png)
+
+*Financial impact of proposed registration fee adjustments at a simulated $0.60/mile reimbursement rate. All financial figures are synthetic.*
+
 **Data Privacy:** All financial data presented in this public portfolio project is synthetic. The analytical methodology was adapted from professional experience, but no actual employer financial records or results are disclosed.
 
 ---
